@@ -1,4 +1,4 @@
-import request from '../config/request';
+import request from '@/config/request';
 
 function handleError(err, params) {
   return Promise.reject(err);

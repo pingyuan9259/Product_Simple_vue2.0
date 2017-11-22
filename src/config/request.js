@@ -1,5 +1,5 @@
 import axios from 'axios';
-import { PREFIX, APP_TOKEN_KEY, TOKEN } from './app';
+import { PREFIX, APP_TOKEN_KEY, TOKEN } from './';
 import log from '../utils/log';
 // import router from '../router'
 import cookie from 'js-cookie';
